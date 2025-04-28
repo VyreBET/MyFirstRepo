@@ -1,4 +1,14 @@
 # TRY TRY pakuno2
 
-## Second Push
-Hello, Everyone
+## Instructions
+Clone this Repository
+
+`git clone to another folder para sayun`
+
+Create a Python virtual environment
+
+`python -m venv env`
+
+Install the packages to txt
+
+`pip install requirements.txt`
